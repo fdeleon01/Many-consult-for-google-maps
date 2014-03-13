@@ -1,4 +1,5 @@
 /**call many times api of google maps*/
+//you can recived client adress and city and zip code of other ajax when call in data base
 
 setInterval(function(){
    $.ajax({
